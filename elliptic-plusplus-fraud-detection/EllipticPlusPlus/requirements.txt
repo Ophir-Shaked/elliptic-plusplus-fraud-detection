@@ -1,0 +1,13 @@
+# Colab provides numpy/pandas/PyTorch. Keep Colab versions unless missing.
+numpy>=1.24,<3
+pandas>=2.0,<3.2
+scipy>=1.11
+scikit-learn>=1.3
+xgboost>=2.0
+lightgbm>=4.0
+catboost>=1.2
+torch>=2.1
+matplotlib>=3.7
+joblib>=1.3
+# Developer validation and reproducing tests
+pytest>=8.0
